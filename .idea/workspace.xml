@@ -1,0 +1,1684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.java" description="protected abstract void loadBeanDefinitions(Defaul..." line="241" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69cb236f-17ce-4624-b967-584f9a1bdd5a" name="默认" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/spring-01-ioc/target/" />
+    <ignored path="$PROJECT_DIR$/spring-02-helloworld/target/" />
+    <ignored path="$PROJECT_DIR$/spring-03-ioc2/target/" />
+    <ignored path="$PROJECT_DIR$/spring-04-di/target/" />
+    <ignored path="$PROJECT_DIR$/spring-05-atuowirednnn/target/" />
+    <ignored path="$PROJECT_DIR$/spring-06-anno/target/" />
+    <ignored path="$PROJECT_DIR$/spring-07-appconfig/target/" />
+    <ignored path="$PROJECT_DIR$/spring-09-aop/target/" />
+    <ignored path="$PROJECT_DIR$/spring-10-mytatis/target/" />
+    <ignored path="$PROJECT_DIR$/aba/target/" />
+    <ignored path="$PROJECT_DIR$/spring-11-transaction/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="user: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1772921281">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3038" />
+          <entry key="md" value="16" />
+          <entry key="xml" value="2889" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3038" />
+          <entry key="Markdown" value="15" />
+          <entry key="XML" value="2890" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="1" />
+          <entry key="AbstractApplicationContext" value="1" />
+          <entry key="BeanFactory" value="2" />
+          <entry key="CglibAopProxy" value="1" />
+          <entry key="ClassPathXmlApplicationContext" value="1" />
+          <entry key="DefaultSingletonBeanRegistry" value="1" />
+          <entry key="LogFactory" value="1" />
+          <entry key="Object" value="2" />
+          <entry key="ObjenesisCglibAopProxy" value="1" />
+          <entry key="class" value="25" />
+          <entry key="java" value="313" />
+          <entry key="md" value="7" />
+          <entry key="pom" value="3" />
+          <entry key="properties" value="3" />
+          <entry key="sql" value="1" />
+          <entry key="txt" value="1" />
+          <entry key="user" value="4" />
+          <entry key="xml" value="118" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="25" />
+          <entry key="Database Element" value="4" />
+          <entry key="JAVA" value="313" />
+          <entry key="Markdown" value="7" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="3" />
+          <entry key="Scratch" value="1" />
+          <entry key="UML" value="11" />
+          <entry key="XML" value="121" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.core.usages.trigger">
+        <counts>
+          <entry key="fixes.SpringFacetInspection.AddFacetFix" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Spring-study" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-01-ioc/src/test/java/MyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="16" column="64" lean-forward="true" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="143" column="16" lean-forward="true" selection-start-line="143" selection-start-column="16" selection-end-line="143" selection-end-column="16" />
+              <folding>
+                <element signature="e#2861#2862#0" expanded="true" />
+                <element signature="e#2881#2882#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="1936" column="30" selection-start-line="1936" selection-start-column="30" selection-end-line="1936" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="425" column="18" selection-start-line="425" selection-start-column="18" selection-end-line="425" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="556">
+              <caret line="877" column="29" lean-forward="true" selection-start-line="877" selection-start-column="29" selection-end-line="877" selection-end-column="29" />
+              <folding>
+                <element signature="e#9905#9906#0" expanded="true" />
+                <element signature="e#9971#9972#0" expanded="true" />
+                <element signature="e#18981#18982#0" expanded="true" />
+                <element signature="e#19025#19026#0" expanded="true" />
+                <element signature="e#44681#44682#0" expanded="true" />
+                <element signature="e#44736#44737#0" expanded="true" />
+                <element signature="e#44792#44793#0" expanded="true" />
+                <element signature="e#44847#44848#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/config/ConfigurableListableBeanFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="538">
+              <caret line="878" column="24" selection-start-line="878" selection-start-column="24" selection-end-line="878" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>populateBean</find>
+    </findStrings>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring-05-atuowirednnn/src/main/java/com/xizi/pojo/People.java" />
+        <option value="$PROJECT_DIR$/spring-06-anno/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/spring-06-anno/src/main/java/com/xizi/controller/Usercontroller.java" />
+        <option value="$PROJECT_DIR$/spring-06-anno/src/main/java/com/xizi/dao/Userdao.java" />
+        <option value="$PROJECT_DIR$/spring-06-anno/src/main/java/com/xizi/service/UserService.java" />
+        <option value="$PROJECT_DIR$/spring-06-anno/src/main/java/com/xizi/pojo/User.java" />
+        <option value="$PROJECT_DIR$/spring-09-aop/src/main/java/com/xizi/service/UserService.java" />
+        <option value="$PROJECT_DIR$/spring-09-aop/src/main/java/com/xizi/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-09-aop/src/main/java/com/xizi/log/Log.java" />
+        <option value="$PROJECT_DIR$/spring-09-aop/src/main/java/com/xizi/log/AfterLog.java" />
+        <option value="$PROJECT_DIR$/spring-09-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-09-aop/src/test/java/Mytest.java" />
+        <option value="$PROJECT_DIR$/spring-09-aop/src/main/java/com/xizi/diy/DiyPointCut.java" />
+        <option value="$PROJECT_DIR$/spring-09-aop/src/main/java/com/xizi/diy/AnnotationPointCut.java" />
+        <option value="$PROJECT_DIR$/spring-10-mytatis/src/main/java/com/xizi/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/spring-10-mytatis/src/main/java/com/xizi/dao/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-10-mytatis/src/main/java/com/xizi/pojo/User.java" />
+        <option value="$PROJECT_DIR$/aba/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-10-mytatis/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/spring-10-mytatis/src/main/java/com/xizi/dao/UserMapperImpl.java" />
+        <option value="$PROJECT_DIR$/note.md" />
+        <option value="$PROJECT_DIR$/spring-10-mytatis/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/spring-10-mytatis/src/test/java/Mytest.java" />
+        <option value="$PROJECT_DIR$/spring-11-transaction/src/main/java/com/xizi/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/spring-11-transaction/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/spring-11-transaction/src/test/java/MyTest.java" />
+        <option value="$PROJECT_DIR$/spring-11-transaction/src/main/java/com/xizi/pojo/User.java" />
+        <option value="$PROJECT_DIR$/spring-11-transaction/src/main/resources/spring-dao.xml" />
+        <option value="$PROJECT_DIR$/spring-11-transaction/src/main/java/com/xizi/mapper/UserMapperImpl.java" />
+        <option value="$PROJECT_DIR$/spring-11-transaction/src/main/java/com/xizi/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-01-ioc/src/main/java/com/xizi/dao/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/spring-01-ioc/src/main/java/com/xizi/dao/UserDaoMysqlImpl.java" />
+        <option value="$PROJECT_DIR$/spring-01-ioc/src/main/java/com/xizi/dao/UserDaoOracleImpl.java" />
+        <option value="$PROJECT_DIR$/spring-02-helloworld/src/test/java/MyTest.java" />
+        <option value="$PROJECT_DIR$/spring-03-ioc2/src/test/java/MyTest.java" />
+        <option value="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/spring-04-di/src/main/java/com/xizi/pojo/Address.java" />
+        <option value="$PROJECT_DIR$/spring-05-atuowirednnn/src/main/java/com/xizi/pojo/Cat.java" />
+        <option value="$PROJECT_DIR$/spring-10-mytatis/src/main/resources/spring-dao.xml" />
+        <option value="$PROJECT_DIR$/spring-07-appconfig/src/main/java/com/xizi/config/xiziconfig2.java" />
+        <option value="$PROJECT_DIR$/spring-07-appconfig/src/main/java/com/xizi/pojo/User.java" />
+        <option value="$PROJECT_DIR$/spring-06-anno/src/test/java/Mytest.java" />
+        <option value="$PROJECT_DIR$/spring-04-di/src/main/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/spring-07-appconfig/src/test/java/Mytest.java" />
+        <option value="$PROJECT_DIR$/spring-10-mytatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-11-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-01-ioc/src/test/java/MyTest.java" />
+        <option value="$PROJECT_DIR$/spring-01-ioc/src/main/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/spring-07-appconfig/src/main/java/com/xizi/config/XiziConfig.java" />
+        <option value="$PROJECT_DIR$/spring-09-aop/src/main/resources/applicationContext.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\my_maven\maven_repository" />
+        <option name="mavenHome" value="D:/my_maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\my_maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-10-mytatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-10-mytatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-10-mytatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework:spring-webmvc:5.0.2.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-10-mytatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework:spring-jdbc:5.0.2.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="801" />
+    <option name="width" value="1300" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>OSGi</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-01-ioc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-01-ioc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-01-ioc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-01-ioc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-09-aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-09-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-09-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-09-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-09-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xizi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-09-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xizi" type="462c0819:PsiDirectoryNode" />
+              <item name="diy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-09-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xizi" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-09-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xizi" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-09-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-09-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-09-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-study" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-11-transaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SearchEverywhereHistoryKey" value="Proxy&#9;FILE&#9;jar://D:/my_maven/maven_repository/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java&#10;BeanF&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanFactory&#10;abstractAutoprox&#9;PSI&#9;JAVA://org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator&#10;NamespaceHandleS&#9;PSI&#9;JAVA://org.springframework.beans.factory.xml.NamespaceHandlerSupport&#10;Namespace&#9;PSI&#9;JAVA://javax.xml.stream.events.Namespace&#10;Disposa&#9;PSI&#9;JAVA://org.springframework.beans.factory.DisposableBean&#10;BeanPost&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanPostProcessor&#10;BeanFactoryAw&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanFactoryAware&#10;BeanNameAw&#9;FILE&#9;jar://D:/my_maven/maven_repository/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/BeanNameAware.java&#10;BeanName&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanNameAware&#10;getBeanDefini&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.ConfigurableListableBeanFactory#getBeanDefinition&#10;parseBeanDefinitions&#9;PSI&#9;JAVA://org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader#parseBeanDefinitions&#10;AbstractRefreshableApplicationContext&#9;FILE&#9;jar://D:/my_maven/maven_repository/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.java&#10;BeanDefinitionHol&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanDefinitionHolder&#10;BeanDef&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanDefinition&#10;BeanFactory&#9;FILE&#9;jar://D:/my_maven/maven_repository/org/springframework/spring-beans/5.0.2.RELEASE/spring-beans-5.0.2.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java&#10;Beanfactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanFactory" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606569455463" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="D:/Documents/Desktop" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.33043477" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\JavaWorkSpace\Spring-study\spring-11-transaction\src\main\resources" />
+      <recent name="D:\IDEA\JavaWorkSpace\Spring-study\spring-11-transaction\src\main\java\com\xizi\mapper" />
+      <recent name="D:\IDEA\JavaWorkSpace\Spring-study\spring-10-mytatis\src\main\resources" />
+      <recent name="D:\IDEA\JavaWorkSpace\Spring-study\spring-03-ioc2\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xizi.mapper" />
+      <recent name="com.xizi.pojo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA\JavaWorkSpace\Spring-study" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Mytest (1)">
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <module name="spring-01-ioc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mytest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mytest" />
+      <module name="spring-09-aop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mytest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mytest" />
+      <module name="spring-07-appconfig" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mytest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-06-anno" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Mytest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mytest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-10-mytatis" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Mytest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Mytest (1)" />
+      <item itemvalue="Application.Mytest" />
+      <item itemvalue="Application.Mytest (1)" />
+      <item itemvalue="JUnit.Mytest.test" />
+      <item itemvalue="Application.MyTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mytest (1)" />
+        <item itemvalue="Application.MyTest" />
+        <item itemvalue="JUnit.Mytest.test" />
+        <item itemvalue="Application.Mytest" />
+        <item itemvalue="JUnit.Mytest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69cb236f-17ce-4624-b967-584f9a1bdd5a" name="默认" comment="" />
+      <created>1587255898036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587255898036</updated>
+      <workItem from="1587255901660" duration="989000" />
+      <workItem from="1587256918841" duration="6777000" />
+      <workItem from="1587298699297" duration="3344000" />
+      <workItem from="1587343990185" duration="6280000" />
+      <workItem from="1587364986076" duration="721000" />
+      <workItem from="1587367881562" duration="918000" />
+      <workItem from="1587368874426" duration="83000" />
+      <workItem from="1587369009794" duration="3096000" />
+      <workItem from="1587372236316" duration="1234000" />
+      <workItem from="1587373763530" duration="584000" />
+      <workItem from="1587384587552" duration="3511000" />
+      <workItem from="1587427660675" duration="4175000" />
+      <workItem from="1587453034141" duration="188000" />
+      <workItem from="1587517382090" duration="3425000" />
+      <workItem from="1587865651971" duration="627000" />
+      <workItem from="1587870404091" duration="1409000" />
+      <workItem from="1590911623188" duration="611000" />
+      <workItem from="1590912309897" duration="3000" />
+      <workItem from="1591062890030" duration="3389000" />
+      <workItem from="1591087893932" duration="18000" />
+      <workItem from="1591766054013" duration="1640000" />
+      <workItem from="1591842914360" duration="4790000" />
+      <workItem from="1591853222170" duration="1084000" />
+      <workItem from="1591873816963" duration="194000" />
+      <workItem from="1602999140843" duration="12000" />
+      <workItem from="1602999180452" duration="9696000" />
+      <workItem from="1603010266362" duration="2084000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Mytest_test - 2020.04.26 at 11h 32m 15s.xml">
+      <configuration name="Mytest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Mytest - 2020.04.26 at 11h 32m 30s.xml">
+      <configuration name="Mytest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Mytest_(1) - 2020.06.02 at 09h 56m 34s.xml">
+      <configuration name="Mytest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Mytest_(1) - 2020.06.02 at 10h 44m 23s.xml">
+      <configuration name="Mytest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Mytest_(1) - 2020.06.02 at 10h 46m 11s.xml">
+      <configuration name="Mytest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Mytest_(1) - 2020.06.11 at 10h 43m 00s.xml">
+      <configuration name="Mytest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Mytest_test - 2020.06.11 at 12h 23m 23s.xml">
+      <configuration name="Mytest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Mytest_test - 2020.06.11 at 12h 51m 17s.xml">
+      <configuration name="Mytest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Mytest_test - 2020.06.11 at 12h 51m 23s.xml">
+      <configuration name="Mytest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Mytest_test - 2020.06.11 at 12h 55m 19s.xml">
+      <configuration name="Mytest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60882000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="642" y="0" width="1040" height="832" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3152639" weight="0.20791416" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.42368045" side_tool="true" weight="0.39959225" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="设计器" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Structure" order="7" sideWeight="0.5763195" weight="0.30479103" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31966054" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.44413012" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3281471" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="JProfiler" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="调试" order="14" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.4822267" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="调色板" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.31702414" />
+      <window_info anchor="right" id="Database" order="6" weight="0.27882037" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="right" id="leetcode" order="10" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3152639" weight="0.20791416" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.42368045" side_tool="true" weight="0.39959225" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="设计器" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info active="true" id="Structure" order="7" sideWeight="0.5763195" visible="true" weight="0.17169684" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31966054" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.44413012" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3281471" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="JProfiler" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="调试" order="14" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.4822267" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="调色板" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.31702414" />
+      <window_info anchor="right" id="Database" order="6" weight="0.27882037" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="right" id="leetcode" order="10" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-09-aop/src/main/java/com/xizi/diy/DiyPointCut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-09-aop/src/main/java/com/xizi/diy/AnnotationPointCut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-09-aop/src/test/java/Mytest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-09-aop/src/main/java/com/xizi/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-09-aop/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/xml/NamespaceHandlerSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="109" column="35" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE-sources.jar!/org/springframework/aop/framework/AopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1568">
+          <caret line="177" column="22" selection-start-line="177" selection-start-column="22" selection-end-line="177" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.0.RELEASE/spring-webmvc-5.2.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.xizi:Spring-study:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.xizi:Spring-study:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="312.18333333333334" y="496.0">com.xizi:Spring-study:1.0-SNAPSHOT</node>
+            <node x="205.85000000000002" y="415.0">org.springframework:spring-webmvc:jar:5.2.0.RELEASE</node>
+            <node x="176.7166666666667" y="253.0">org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-aop:jar:5.2.0.RELEASE</node>
+            <node x="199.96333333333337" y="172.0">org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-beans:jar:5.2.0.RELEASE</node>
+            <node x="93.0" y="334.0">org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-context:jar:5.2.0.RELEASE</node>
+            <node x="185.21666666666673" y="81.0">org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-core:jar:5.2.0.RELEASE</node>
+            <node x="192.21666666666673" y="0.0">org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-core:jar:5.2.0.RELEASE/org.springframework:spring-jcl:jar:5.2.0.RELEASE</node>
+            <node x="0.0" y="253.0">org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-expression:jar:5.2.0.RELEASE</node>
+            <node x="293.7166666666667" y="253.0">org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-web:jar:5.2.0.RELEASE</node>
+            <node x="442.2166666666667" y="415.0">junit:junit:jar:4.12</node>
+            <node x="412.7166666666667" y="334.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-core:jar:5.2.0.RELEASE">
+              <point x="50.833333333333314" y="-15.5" />
+              <point x="317.68333333333334" y="395.0" />
+              <point x="402.2166666666667" y="395.0" />
+              <point x="402.2166666666667" y="142.0" />
+              <point x="276.88333333333344" y="142.0" />
+              <point x="41.666666666666686" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-aop:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-beans:jar:5.2.0.RELEASE">
+              <point x="24.0" y="-15.5" />
+              <point x="248.7166666666667" y="233.0" />
+              <point x="240.46333333333337" y="233.0" />
+              <point x="-13.5" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-expression:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-core:jar:5.2.0.RELEASE">
+              <point x="0.0" y="-15.5" />
+              <point x="68.0" y="132.0" />
+              <point x="193.55000000000004" y="132.0" />
+              <point x="-41.666666666666686" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-web:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-beans:jar:5.2.0.RELEASE">
+              <point x="-24.5" y="-15.5" />
+              <point x="318.2166666666667" y="233.0" />
+              <point x="294.46333333333337" y="233.0" />
+              <point x="40.5" y="15.5" />
+            </edge>
+            <edge source="com.xizi:Spring-study:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE">
+              <point x="-26.75" y="-15.5" />
+              <point x="338.93333333333334" y="471.0" />
+              <point x="266.85" y="471.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-aop:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-core:jar:5.2.0.RELEASE">
+              <point x="-24.0" y="-15.5" />
+              <point x="200.7166666666667" y="223.0" />
+              <point x="184.96333333333337" y="223.0" />
+              <point x="184.96333333333337" y="152.0" />
+              <point x="226.88333333333338" y="152.0" />
+              <point x="-8.333333333333343" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-context:jar:5.2.0.RELEASE">
+              <point x="-30.5" y="-15.5" />
+              <point x="236.35000000000002" y="385.0" />
+              <point x="152.0" y="385.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-core:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-core:jar:5.2.0.RELEASE/org.springframework:spring-jcl:jar:5.2.0.RELEASE">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-beans:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-core:jar:5.2.0.RELEASE">
+              <point x="0.0" y="-15.5" />
+              <point x="253.96333333333337" y="152.0" />
+              <point x="243.55000000000004" y="152.0" />
+              <point x="8.333333333333314" y="15.5" />
+            </edge>
+            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-context:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-core:jar:5.2.0.RELEASE">
+              <point x="-14.75" y="-15.5" />
+              <point x="137.25" y="309.0" />
+              <point x="146.5" y="309.0" />
+              <point x="146.5" y="142.0" />
+              <point x="210.21666666666673" y="142.0" />
+              <point x="-25.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-web:jar:5.2.0.RELEASE">
+              <point x="30.5" y="-15.5" />
+              <point x="297.35" y="385.0" />
+              <point x="342.7166666666667" y="385.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-web:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-core:jar:5.2.0.RELEASE">
+              <point x="24.5" y="-15.5" />
+              <point x="367.2166666666667" y="152.0" />
+              <point x="260.2166666666667" y="152.0" />
+              <point x="25.0" y="15.5" />
+            </edge>
+            <edge source="com.xizi:Spring-study:1.0-SNAPSHOT" target="junit:junit:jar:4.12">
+              <point x="26.75" y="-15.5" />
+              <point x="392.43333333333334" y="471.0" />
+              <point x="470.7166666666667" y="471.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-context:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-beans:jar:5.2.0.RELEASE">
+              <point x="14.75" y="-15.5" />
+              <point x="166.2166666666667" y="233.0" />
+              <point x="213.46333333333337" y="233.0" />
+              <point x="-40.5" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-context:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-aop:jar:5.2.0.RELEASE">
+              <point x="44.25" y="-15.5" />
+              <point x="196.25" y="309.0" />
+              <point x="200.7166666666667" y="309.0" />
+              <point x="-24.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-context:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-expression:jar:5.2.0.RELEASE">
+              <point x="-44.25" y="-15.5" />
+              <point x="107.75" y="309.0" />
+              <point x="102.0" y="309.0" />
+              <point x="34.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-beans:jar:5.2.0.RELEASE">
+              <point x="10.166666666666657" y="-15.5" />
+              <point x="277.01666666666665" y="395.0" />
+              <point x="283.2166666666667" y="395.0" />
+              <point x="283.2166666666667" y="233.0" />
+              <point x="267.46333333333337" y="233.0" />
+              <point x="13.5" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-aop:jar:5.2.0.RELEASE">
+              <point x="-10.166666666666686" y="-15.5" />
+              <point x="256.68333333333334" y="395.0" />
+              <point x="248.7166666666667" y="395.0" />
+              <point x="24.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:5.2.0.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-expression:jar:5.2.0.RELEASE">
+              <point x="-50.833333333333314" y="-15.5" />
+              <point x="216.0166666666667" y="395.0" />
+              <point x="34.0" y="395.0" />
+              <point x="-34.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.5" x="-5.0" y="140.0" />
+          <SelectedNodes>
+            <node>org.springframework:spring-webmvc:jar:5.2.0.RELEASE/org.springframework:spring-context:jar:5.2.0.RELEASE</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="470" column="30" lean-forward="true" selection-start-line="470" selection-start-column="30" selection-end-line="470" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://SPRING/mappedClass=java.lang.Object">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SPRING</ID>
+          <OriginalElement>mappedClass=java.lang.Object</OriginalElement>
+          <nodes>
+            <node x="" y="">module=spring-03-ioc2;bean_class=com.xizi.pojo.User;bean_name=user</node>
+            <node x="" y="">module=spring-03-ioc2;bean_class=com.xizi.pojo.UserT;bean_name=usert</node>
+            <node x="" y="">&lt;unknown&gt;</node>
+            <node x="" y="">module=spring-01-ioc;bean_class=com.xizi.dao.UserDaoMysqlImpl;bean_name=mysqlImpl</node>
+            <node x="" y="">module=spring-01-ioc;bean_class=com.xizi.dao.UserDaoOracleImpl;bean_name=oracleImpl</node>
+            <node x="" y="">module=spring-01-ioc;bean_class=com.xizi.service.UserServiceImpl;bean_name=UserServiceImpl</node>
+            <node x="" y="">module=spring-02-helloworld;bean_class=com.xizi.pojo.Hello;bean_name=hello</node>
+            <node x="" y="">module=spring-10-mytatis;bean_class=org.springframework.jdbc.datasource.DriverManagerDataSource;bean_name=datasource</node>
+            <node x="" y="">module=spring-10-mytatis;bean_class=org.mybatis.spring.SqlSessionFactoryBean;bean_name=sqlSessionFactory</node>
+            <node x="" y="">module=spring-10-mytatis;bean_class=org.mybatis.spring.SqlSessionTemplate;bean_name=sqlSession</node>
+            <node x="" y="">module=spring-10-mytatis;bean_class=com.xizi.dao.UserMapperImpl;bean_name=userMapper</node>
+            <node x="" y="">module=spring-04-di;bean_class=com.xizi.pojo.Address;bean_name=address</node>
+            <node x="" y="">module=spring-04-di;bean_class=com.xizi.pojo.Student;bean_name=student</node>
+            <node x="" y="">module=spring-04-di;bean_class=com.xizi.pojo.User;bean_name=user</node>
+            <node x="" y="">module=spring-04-di;bean_class=com.xizi.pojo.User;bean_name=user2</node>
+            <node x="" y="">module=spring-05-atuowirednnn;bean_name=context:annotation-config</node>
+            <node x="" y="">module=spring-05-atuowirednnn;bean_class=com.xizi.pojo.Cat;bean_name=cat</node>
+            <node x="" y="">module=spring-05-atuowirednnn;bean_class=com.xizi.pojo.Cat;bean_name=cat11</node>
+            <node x="" y="">module=spring-05-atuowirednnn;bean_class=com.xizi.pojo.Cat;bean_name=cat22</node>
+            <node x="" y="">module=spring-05-atuowirednnn;bean_class=com.xizi.pojo.Dog;bean_name=dog</node>
+            <node x="" y="">module=spring-05-atuowirednnn;bean_class=com.xizi.pojo.Dog;bean_name=dog11</node>
+            <node x="" y="">module=spring-05-atuowirednnn;bean_class=com.xizi.pojo.Dog;bean_name=dog22</node>
+            <node x="" y="">module=spring-05-atuowirednnn;bean_class=com.xizi.pojo.People;bean_name=people</node>
+            <node x="" y="">module=spring-06-anno;bean_name=(com.xizi) [Component]</node>
+            <node x="" y="">module=spring-06-anno;bean_class=com.xizi.pojo.User;bean_name=user</node>
+            <node x="" y="">module=spring-06-anno;bean_class=com.xizi.controller.Usercontroller;bean_name=usercontroller</node>
+            <node x="" y="">module=spring-06-anno;bean_class=com.xizi.dao.Userdao;bean_name=userdao</node>
+            <node x="" y="">module=spring-06-anno;bean_class=com.xizi.service.UserService;bean_name=userService</node>
+            <node x="" y="">module=spring-11-transaction;bean_class=com.xizi.mapper.UserMapperImpl;bean_name=userMapper</node>
+            <node x="" y="">module=spring-11-transaction;bean_class=org.mybatis.spring.SqlSessionFactoryBean;bean_name=sqlSessionFactory</node>
+            <node x="" y="">module=spring-11-transaction;bean_class=org.springframework.jdbc.datasource.DriverManagerDataSource;bean_name=datasource</node>
+            <node x="" y="">module=spring-11-transaction;bean_class=org.springframework.transaction.interceptor.TransactionInterceptor;bean_name=txAdvice</node>
+            <node x="" y="">module=spring-11-transaction;bean_class=org.springframework.jdbc.datasource.DataSourceTransactionManager;bean_name=transactionManager</node>
+            <node x="" y="">module=spring-11-transaction;tag=aop:config;offset=2487</node>
+            <node x="" y="">module=spring-11-transaction;bean_class=org.mybatis.spring.SqlSessionTemplate;bean_name=sqlSession</node>
+            <node x="" y="">module=spring-09-aop;bean_class=org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator;tag=aop:aspectj-autoproxy;offset=611</node>
+            <node x="" y="">module=spring-09-aop;tag=aop:config;offset=926</node>
+            <node x="" y="">module=spring-09-aop;bean_class=com.xizi.log.Log;bean_name=log</node>
+            <node x="" y="">module=spring-09-aop;bean_class=com.xizi.log.AfterLog;bean_name=afterlog</node>
+            <node x="" y="">module=spring-09-aop;bean_class=com.xizi.diy.AnnotationPointCut;bean_name=annotationPointCut</node>
+            <node x="" y="">module=spring-09-aop;bean_class=com.xizi.service.UserServiceImpl;bean_name=userService</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.382795698924731" x="184.0" y="705.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Local context</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.Object">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.Object</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">java.lang.Object</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="30.0" y="-70.0" />
+          <SelectedNodes>
+            <node>java.lang.Object</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.beans.factory.support.DefaultSingletonBeanRegistry">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.beans.factory.support.DefaultSingletonBeanRegistry</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.core.AliasRegistry</node>
+            <node x="" y="">org.springframework.beans.factory.support.DefaultSingletonBeanRegistry</node>
+            <node x="" y="">org.springframework.core.SimpleAliasRegistry</node>
+            <node x="" y="">org.springframework.beans.factory.config.SingletonBeanRegistry</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="200.0" y="97.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.0.RELEASE/spring-core-5.2.0.RELEASE-sources.jar!/org/springframework/core/SimpleAliasRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.aop.framework.CglibAopProxy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.aop.framework.CglibAopProxy</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.aop.framework.AopProxy</node>
+            <node x="" y="">org.springframework.aop.framework.JdkDynamicAopProxy</node>
+            <node x="" y="">java.lang.SuppressWarnings</node>
+            <node x="" y="">org.springframework.aop.framework.ObjenesisCglibAopProxy</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.2000000000000002" x="207.0" y="56.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.beans.factory.BeanFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.beans.factory.BeanFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.context.support.AbstractApplicationContext</node>
+            <node x="" y="">org.springframework.beans.factory.BeanFactory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="60.0" y="16.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.context.support.AbstractApplicationContext">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.context.support.AbstractApplicationContext</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.beans.factory.HierarchicalBeanFactory</node>
+            <node x="" y="">org.springframework.core.io.ResourceLoader</node>
+            <node x="" y="">java.lang.AutoCloseable</node>
+            <node x="" y="">org.springframework.context.ApplicationContext</node>
+            <node x="" y="">org.springframework.context.support.AbstractRefreshableConfigApplicationContext</node>
+            <node x="" y="">org.springframework.context.Lifecycle</node>
+            <node x="" y="">java.lang.FunctionalInterface</node>
+            <node x="" y="">org.springframework.context.support.AbstractApplicationContext</node>
+            <node x="" y="">org.springframework.core.io.DefaultResourceLoader</node>
+            <node x="" y="">org.springframework.core.env.EnvironmentCapable</node>
+            <node x="" y="">org.springframework.beans.factory.BeanFactory</node>
+            <node x="" y="">org.springframework.context.ConfigurableApplicationContext</node>
+            <node x="" y="">java.io.Closeable</node>
+            <node x="" y="">org.springframework.context.ApplicationEventPublisher</node>
+            <node x="" y="">org.springframework.core.io.support.ResourcePatternResolver</node>
+            <node x="" y="">org.springframework.context.support.AbstractRefreshableApplicationContext</node>
+            <node x="" y="">org.springframework.beans.factory.ListableBeanFactory</node>
+            <node x="" y="">org.springframework.context.MessageSource</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.07088772845953" x="204.0" y="176.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.commons.logging.LogFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.commons.logging.LogFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.commons.logging.LogFactory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="57.0" y="16.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.2.0.RELEASE/spring-jcl-5.2.0.RELEASE.jar!/org/apache/commons/logging/LogFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.2.0.RELEASE/spring-jcl-5.2.0.RELEASE-sources.jar!/org/apache/commons/logging/LogFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.2.0.RELEASE/spring-jcl-5.2.0.RELEASE-sources.jar!/org/apache/commons/logging/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-988">
+          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-634">
+          <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE-sources.jar!/org/springframework/aop/framework/ObjenesisCglibAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE-sources.jar!/org/springframework/aop/framework/AdvisedSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="388" column="16" selection-start-line="388" selection-start-column="16" selection-end-line="388" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.aop.framework.ObjenesisCglibAopProxy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.aop.framework.ObjenesisCglibAopProxy</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.aop.framework.JdkDynamicAopProxy</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.StaticDispatcher</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.EqualsInterceptor</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.CglibMethodInvocation</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.DynamicUnadvisedInterceptor</node>
+            <node x="" y="">org.springframework.aop.framework.ObjenesisCglibAopProxy</node>
+            <node x="" y="">org.springframework.aop.framework.AopProxy</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.StaticUnadvisedInterceptor</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.FixedChainStaticTargetInterceptor</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.DynamicUnadvisedExposedInterceptor</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.AdvisedDispatcher</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.StaticUnadvisedExposedInterceptor</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.ProxyCallbackFilter</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.HashCodeInterceptor</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.DynamicAdvisedInterceptor</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy</node>
+            <node x="" y="">org.springframework.aop.framework.CglibAopProxy.SerializableNoOp</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.4000000000000001" x="1872.0" y="213.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="122" column="28" lean-forward="true" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.context.support.ClassPathXmlApplicationContext">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.context.support.ClassPathXmlApplicationContext</OriginalElement>
+          <nodes>
+            <node x="0.0" y="541.0">org.springframework.beans.factory.HierarchicalBeanFactory</node>
+            <node x="9.75" y="4527.5">org.springframework.context.support.FileSystemXmlApplicationContext</node>
+            <node x="314.75" y="4250.0">org.springframework.context.support.AbstractXmlApplicationContext</node>
+            <node x="127.25" y="783.0">org.springframework.context.ApplicationContext</node>
+            <node x="282.25" y="3938.0">org.springframework.context.support.AbstractRefreshableConfigApplicationContext</node>
+            <node x="587.25" y="817.5">org.springframework.context.Lifecycle</node>
+            <node x="253.75" y="1359.0">org.springframework.context.support.AbstractApplicationContext</node>
+            <node x="295.75" y="1002.0">org.springframework.context.ConfigurableApplicationContext</node>
+            <node x="157.25" y="0.0">org.springframework.beans.factory.BeanFactory</node>
+            <node x="523.75" y="4493.0">org.springframework.context.support.ClassPathXmlApplicationContext</node>
+            <node x="301.25" y="3557.0">org.springframework.context.support.AbstractRefreshableApplicationContext</node>
+            <node x="297.0" y="426.0">org.springframework.beans.factory.ListableBeanFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.context.support.AbstractXmlApplicationContext" target="org.springframework.context.support.AbstractRefreshableConfigApplicationContext">
+              <point x="0.0" y="-96.5" />
+              <point x="0.0" y="131.0" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractRefreshableConfigApplicationContext" target="org.springframework.context.support.AbstractRefreshableApplicationContext">
+              <point x="0.0" y="-131.0" />
+              <point x="0.0" y="165.5" />
+            </edge>
+            <edge source="org.springframework.beans.factory.HierarchicalBeanFactory" target="org.springframework.beans.factory.BeanFactory">
+              <point x="0.0" y="-38.5" />
+              <point x="138.5" y="401.0" />
+              <point x="252.25" y="401.0" />
+              <point x="-95.0" y="188.0" />
+            </edge>
+            <edge source="org.springframework.beans.factory.ListableBeanFactory" target="org.springframework.beans.factory.BeanFactory">
+              <point x="0.0" y="-153.5" />
+              <point x="556.0" y="401.0" />
+              <point x="442.25" y="401.0" />
+              <point x="95.0" y="188.0" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractRefreshableApplicationContext" target="org.springframework.context.support.AbstractApplicationContext">
+              <point x="0.0" y="-165.5" />
+              <point x="0.0" y="1074.0" />
+            </edge>
+            <edge source="org.springframework.context.ConfigurableApplicationContext" target="org.springframework.context.ApplicationContext">
+              <point x="-108.5" y="-153.5" />
+              <point x="404.25" y="977.0" />
+              <point x="347.25" y="977.0" />
+              <point x="0.0" y="84.5" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.beans.factory.HierarchicalBeanFactory">
+              <point x="-110.0" y="-84.5" />
+              <point x="237.25" y="758.0" />
+              <point x="138.5" y="758.0" />
+              <point x="0.0" y="38.5" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.beans.factory.ListableBeanFactory">
+              <point x="110.0" y="-84.5" />
+              <point x="457.25" y="758.0" />
+              <point x="556.0" y="758.0" />
+              <point x="0.0" y="153.5" />
+            </edge>
+            <edge source="org.springframework.context.support.ClassPathXmlApplicationContext" target="org.springframework.context.support.AbstractXmlApplicationContext">
+              <point x="0.0" y="-142.5" />
+              <point x="768.75" y="4468.0" />
+              <point x="611.75" y="4468.0" />
+              <point x="99.0" y="96.5" />
+            </edge>
+            <edge source="org.springframework.context.support.FileSystemXmlApplicationContext" target="org.springframework.context.support.AbstractXmlApplicationContext">
+              <point x="0.0" y="-108.0" />
+              <point x="256.75" y="4468.0" />
+              <point x="413.75" y="4468.0" />
+              <point x="-99.0" y="96.5" />
+            </edge>
+            <edge source="org.springframework.context.support.AbstractApplicationContext" target="org.springframework.context.ConfigurableApplicationContext">
+              <point x="0.0" y="-1074.0" />
+              <point x="0.0" y="153.5" />
+            </edge>
+            <edge source="org.springframework.context.ConfigurableApplicationContext" target="org.springframework.context.Lifecycle">
+              <point x="108.5" y="-153.5" />
+              <point x="621.25" y="977.0" />
+              <point x="678.25" y="977.0" />
+              <point x="0.0" y="50.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.1000416840350146" x="3745.6499999999996" y="3248.6416666666664" />
+          <SelectedNodes>
+            <node>org.springframework.context.support.ClassPathXmlApplicationContext</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.2.RELEASE/spring-aop-5.0.2.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="204" column="19" selection-start-line="204" selection-start-column="19" selection-end-line="204" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="217" column="35" selection-start-line="217" selection-start-column="35" selection-end-line="217" selection-end-column="35" />
+          <folding>
+            <element signature="e#6029#6030#0" expanded="true" />
+            <element signature="e#6057#6058#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE-sources.jar!/org/springframework/web/context/support/XmlWebApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="80" column="19" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="241" column="28" selection-start-line="241" selection-start-column="28" selection-end-line="241" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/AbstractXmlApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="127" column="30" selection-start-line="127" selection-start-column="30" selection-end-line="127" selection-end-column="30" />
+          <folding>
+            <element signature="e#4075#4076#0" expanded="true" />
+            <element signature="e#4119#4120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1162">
+          <caret line="90" column="8" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="513" column="34" lean-forward="true" selection-start-line="513" selection-start-column="34" selection-end-line="513" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/xml/BeanDefinitionDocumentReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/xml/DefaultBeanDefinitionDocumentReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="178" column="39" lean-forward="true" selection-start-line="178" selection-start-column="39" selection-end-line="178" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="1369" selection-start-line="1369" selection-end-line="1370" />
+          <folding>
+            <element signature="e#48574#48575#0" expanded="true" />
+            <element signature="e#48617#48618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3598">
+          <caret line="187" column="28" lean-forward="true" selection-start-line="187" selection-start-column="28" selection-end-line="187" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-01-ioc/src/test/java/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="64" lean-forward="true" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="143" column="16" lean-forward="true" selection-start-line="143" selection-start-column="16" selection-end-line="143" selection-end-column="16" />
+          <folding>
+            <element signature="e#2861#2862#0" expanded="true" />
+            <element signature="e#2881#2882#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="877" column="29" lean-forward="true" selection-start-line="877" selection-start-column="29" selection-end-line="877" selection-end-column="29" />
+          <folding>
+            <element signature="e#9905#9906#0" expanded="true" />
+            <element signature="e#9971#9972#0" expanded="true" />
+            <element signature="e#18981#18982#0" expanded="true" />
+            <element signature="e#19025#19026#0" expanded="true" />
+            <element signature="e#44681#44682#0" expanded="true" />
+            <element signature="e#44736#44737#0" expanded="true" />
+            <element signature="e#44792#44793#0" expanded="true" />
+            <element signature="e#44847#44848#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/config/ConfigurableListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="878" column="24" selection-start-line="878" selection-start-column="24" selection-end-line="878" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="1936" column="30" selection-start-line="1936" selection-start-column="30" selection-end-line="1936" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="425" column="18" selection-start-line="425" selection-start-column="18" selection-end-line="425" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-07-appconfig</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-aop:5.2.0.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20302649" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
